@@ -23,8 +23,8 @@ DEPENDENCIES:
 USAGE:
   python orthosis_controller_myomatrix.py --model trained_model.pkl --port /dev/ttyUSB0
 
-Author: [Your Name]
-Date: [Date]
+Author: Chioke Swann
+Date: 3 Feb 2026
 """
 
 import argparse
