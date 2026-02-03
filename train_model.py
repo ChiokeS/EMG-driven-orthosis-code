@@ -24,8 +24,8 @@ DATA FORMAT:
     - Manual labeling of intended movement
     - Kinematic data from motion capture
 
-Author: [Your Name]
-Date: [Date]
+Author: Chioke Swann
+Date: 3 Feb 2026
 """
 
 import argparse
